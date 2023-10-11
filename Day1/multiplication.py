@@ -1,0 +1,1 @@
+a=int(input("Enter the number of which multipliction table is required"))
