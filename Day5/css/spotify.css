@@ -1,7 +1,7 @@
 table,th,tr,td {
-    border: 3px solid aqua;
+    border: 3px solid rgb(9, 26, 26);
     border-collapse: collapse;
-    background-color: aquamarine;
+    background-color: rgb(168, 214, 199);
 }
 table {
     width: 100%;
@@ -11,7 +11,7 @@ td {
     text-align: center;
 }
 body {
-    background-color: rgba(74, 218, 192, 0.83);
+    background-color: rgba(190, 243, 233, 0.83);
 }
 td:nth-child(1) {
     width: 50px;
